@@ -1,0 +1,19 @@
+{
+  "name": "pracsjs",
+  "version": "1.0.0",
+  "description": "Practice javascript language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniltallam/PracsJS.git"
+  },
+  "author": "anil tallam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniltallam/PracsJS/issues"
+  },
+  "homepage": "https://github.com/aniltallam/PracsJS#readme"
+}
